@@ -5,6 +5,7 @@ Steps to follow
 2. npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
 3. Copy the github repo assets/main.css to your main.css
 4. Everytime you run the app you have to perform the 3rd step again.
+
 Note: Tailwind Css version compatiblity causes this problem
 
 # Getting Started with Create React App
